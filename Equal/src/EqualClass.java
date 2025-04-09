@@ -27,6 +27,7 @@ public class EqualClass {
 		
 		System.out.println(map);
 		System.out.println(map.get(001));
+		System.out.println(map.get(003));
 		
 		
 		
