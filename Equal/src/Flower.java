@@ -2,6 +2,7 @@
 public class Flower {
 	
 	private String name;
+	private String country;
 	public String getName() {
 		return name;
 	}
